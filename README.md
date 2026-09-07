@@ -137,7 +137,7 @@ All of the input 'raw' MCPL inputs as well as example `filtered`, `filtered_rota
 * `KDSource` within the [KDSource subfolder](https://public.esss.dk/users/willend/MCPL/KDSource)
 
 > [!NOTE]
-> !! Please note that the above outputs are meant as examples, meaning that **choices** should be made to optimise the MCPL-KDSource pipeline for your specific instrument / use case!!
+> !! Please note that the above outputs are meant as examples, meaning that **choices** should be made to **optimise** the MCPL-KDSource pipeline for **your specific instrument / use case**!!
 
 # 4. Comparison methods used
 
