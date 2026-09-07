@@ -1,4 +1,4 @@
-# <img src="logos/Baustelle.png" height=30 align="middle"> **ESS Source-Term Models in McStas** (v0.1 2026/09/07) <img src="logos/Baustelle.png" height=30 align="middle">
+## <img src="logos/Baustelle.png" height=30 align="middle"> **ESS Source-Term Models in McStas** (v0.1 2026/09/07) <img src="logos/Baustelle.png" height=30 align="middle">
 
 *Comparisons between available source-term descriptions ahead of commissioning*
 
