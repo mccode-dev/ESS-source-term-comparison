@@ -4,16 +4,12 @@
 
 Prepared from: “[Available McStas models of the ESS source – Simulation pipeline toward commissioning (August 2026)](presentation)”, P. Willendrup, DMSC/DRAM and DTU Physics.
 
-<table height="100%" width="100%" border=0>
-  <tr>
-    <td align="center" valign="middle" width=22%>
-<img src="logos/butterfly.png"></td>
-	<td align="center" valign="middle" width=10%><img src="logos/McStas.png"></td>
-	<td align="center" valign="middle" width=40%><img src="logos/MCPL.png"></td>
-	<td align="center" valign="middle" width=18%><img  src="logos/KDSource.png">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="logos/butterfly.png" width="22%" align="middle">
+  <img src="logos/McStas.png" width="10%"align="middle">
+  <img src="logos/MCPL.png" width="40%"align="middle">
+  <img src="logos/KDSource.png" width="16%"align="middle">
+</p>
 
 
 
