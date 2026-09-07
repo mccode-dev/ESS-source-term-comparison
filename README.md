@@ -1,4 +1,4 @@
-# **ESS Source-Term Models in McStas** (v0.1 2026/09/07)
+# <img src="logos/Baustelle.png" height=30 align="middle"> **ESS Source-Term Models in McStas** (v0.1 2026/09/07) <img src="logos/Baustelle.png" height=30 align="middle">
 
 *Comparisons between available source-term descriptions ahead of commissioning*
 
@@ -6,9 +6,9 @@ Prepared from: “[Available McStas models of the ESS source – Simulation pipe
 
 <p align="center">
   <img src="logos/butterfly.png" width="22%" align="middle">
-  <img src="logos/McStas.png" width="10%"align="middle">
-  <img src="logos/MCPL.png" width="40%"align="middle">
-  <img src="logos/KDSource.png" width="16%"align="middle">
+  <img src="logos/McStas.png" width="10%" align="middle">
+  <img src="logos/MCPL.png" width="40%" align="middle">
+  <img src="logos/KDSource.png" width="16%" align="middle">
 </p>
 
 
