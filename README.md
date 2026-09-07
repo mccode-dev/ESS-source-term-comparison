@@ -2,7 +2,7 @@
 
 *Comparisons between available source-term descriptions ahead of commissioning*
 
-Prepared from: “Available McStas models of the ESS source – Simulation pipeline toward commissioning (August 2026)”, P. Willendrup, DMSC/DRAM and DTU Physics.
+Prepared from: “[Available McStas models of the ESS source – Simulation pipeline toward commissioning (August 2026)](presentation)”, P. Willendrup, DMSC/DRAM and DTU Physics.
 
 # 1. Purpose and context
 
