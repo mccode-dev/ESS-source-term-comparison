@@ -222,3 +222,5 @@ The presentation is explicit that several pieces of this comparison are still in
 - MCPL format and tools – [mctools.github.io/mcpl](https://mctools.github.io/mcpl)
 
 - Instrument files behind §3: [ESS_MCPL_generate_filtered.instr, ESS_butterfly_Guide_curved_test.instr, ESS_butterfly_MCPL_test.instr, ESS_butterfly_MCPL_filtered_test.instr, ESS_butterfly_MCPL_filtered_rotated_test.instr, ESS_butterfly_KDSource_test.instr](INSTRUMENTS) (P. Willendrup, DMSC/DRAM and DTU Physics).
+
+- All of the input 'raw' MCPL inputs as well as example `filtered`, `filtered_rotated` and `KDSource`-based outputs are available through [public.esss.dk/users/willend/MCPL](https://public.esss.dk/users/willend/MCPL):
